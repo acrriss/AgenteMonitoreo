@@ -1,0 +1,13 @@
+bin/
+obj/
+.vs/
+*.user
+*.suo
+*.DS_Store
+.env
+Docker/sql_data/
+AgenteMonitoreoApp/Debug/
+AgenteMonitoreoApp/Release/
+__pycache__/
+*.log
+*.tmp

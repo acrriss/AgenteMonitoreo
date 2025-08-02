@@ -1,0 +1,11 @@
+D:\AgenteMonitoreo\AgenteMonitoreoApp\obj\Debug\net8.0-windows\AgenteMonitoreoApp.csproj.AssemblyReference.cache
+D:\AgenteMonitoreo\AgenteMonitoreoApp\obj\Debug\net8.0-windows\MainWindow.baml
+D:\AgenteMonitoreo\AgenteMonitoreoApp\obj\Debug\net8.0-windows\Themes\Estilo.baml
+D:\AgenteMonitoreo\AgenteMonitoreoApp\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\AgenteMonitoreo\AgenteMonitoreoApp\obj\Debug\net8.0-windows\App.g.cs
+D:\AgenteMonitoreo\AgenteMonitoreoApp\obj\Debug\net8.0-windows\AgenteMonitoreoApp_MarkupCompile.cache
+D:\AgenteMonitoreo\AgenteMonitoreoApp\obj\Debug\net8.0-windows\AgenteMonitoreoApp.g.resources
+D:\AgenteMonitoreo\AgenteMonitoreoApp\obj\Debug\net8.0-windows\AgenteMonitoreoApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\AgenteMonitoreo\AgenteMonitoreoApp\obj\Debug\net8.0-windows\AgenteMonitoreoApp.AssemblyInfoInputs.cache
+D:\AgenteMonitoreo\AgenteMonitoreoApp\obj\Debug\net8.0-windows\AgenteMonitoreoApp.AssemblyInfo.cs
+D:\AgenteMonitoreo\AgenteMonitoreoApp\obj\Debug\net8.0-windows\AgenteMonitoreoApp.csproj.CoreCompileInputs.cache

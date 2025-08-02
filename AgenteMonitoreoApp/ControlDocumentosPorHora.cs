@@ -1,0 +1,1 @@
+// Clase modelo para datos de monitoreo

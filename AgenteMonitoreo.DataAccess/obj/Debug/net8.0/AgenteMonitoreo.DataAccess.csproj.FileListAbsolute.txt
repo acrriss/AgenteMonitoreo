@@ -1,0 +1,14 @@
+D:\AgenteMonitoreo\AgenteMonitoreo.DataAccess\bin\Debug\net8.0\AgenteMonitoreo.DataAccess.deps.json
+D:\AgenteMonitoreo\AgenteMonitoreo.DataAccess\bin\Debug\net8.0\AgenteMonitoreo.DataAccess.runtimeconfig.json
+D:\AgenteMonitoreo\AgenteMonitoreo.DataAccess\bin\Debug\net8.0\AgenteMonitoreo.DataAccess.dll
+D:\AgenteMonitoreo\AgenteMonitoreo.DataAccess\bin\Debug\net8.0\AgenteMonitoreo.DataAccess.pdb
+D:\AgenteMonitoreo\AgenteMonitoreo.DataAccess\obj\Debug\net8.0\AgenteMonitoreo.DataAccess.csproj.AssemblyReference.cache
+D:\AgenteMonitoreo\AgenteMonitoreo.DataAccess\obj\Debug\net8.0\AgenteMonitoreo.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\AgenteMonitoreo\AgenteMonitoreo.DataAccess\obj\Debug\net8.0\AgenteMonitoreo.DataAccess.AssemblyInfoInputs.cache
+D:\AgenteMonitoreo\AgenteMonitoreo.DataAccess\obj\Debug\net8.0\AgenteMonitoreo.DataAccess.AssemblyInfo.cs
+D:\AgenteMonitoreo\AgenteMonitoreo.DataAccess\obj\Debug\net8.0\AgenteMonitoreo.DataAccess.csproj.CoreCompileInputs.cache
+D:\AgenteMonitoreo\AgenteMonitoreo.DataAccess\obj\Debug\net8.0\AgenteMonitoreo.DataAccess.dll
+D:\AgenteMonitoreo\AgenteMonitoreo.DataAccess\obj\Debug\net8.0\refint\AgenteMonitoreo.DataAccess.dll
+D:\AgenteMonitoreo\AgenteMonitoreo.DataAccess\obj\Debug\net8.0\AgenteMonitoreo.DataAccess.pdb
+D:\AgenteMonitoreo\AgenteMonitoreo.DataAccess\obj\Debug\net8.0\AgenteMonitoreo.DataAccess.genruntimeconfig.cache
+D:\AgenteMonitoreo\AgenteMonitoreo.DataAccess\obj\Debug\net8.0\ref\AgenteMonitoreo.DataAccess.dll
